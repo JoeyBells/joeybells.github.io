@@ -1,0 +1,36 @@
+.pl-4 {
+    padding-left: 1.5em;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.credits {
+    font-size: 16px;
+}
+
+input {
+    height: 75px;
+    width: 350px;
+    font-size: 24px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+mat-card {
+    padding: 15px;
+    width: 600px;
+    /* background-color: #C1D3D9; */
+    background-color: #CCE0E5;
+}
+
+/* app-root {
+    background-color: #CCE0E5 !important;
+} */
