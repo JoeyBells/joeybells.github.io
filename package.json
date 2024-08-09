@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:my-app": "node dist/my-app/server/server.mjs"
+    "serve:ssr:my-app": "node dist/my-app/server/server.mjs",
+    "deploy": "ng deploy --base-href=https://joeybells.github.io/yugioh-fusions/"
   },
   "private": true,
   "dependencies": {
